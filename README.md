@@ -1,1 +1,1 @@
-# mathematical-models
+# Mathematical Models
